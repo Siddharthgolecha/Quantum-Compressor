@@ -28,7 +28,7 @@ def computing():
         for i in range(n):
             out += chr(ord("A")+25-int(round(arr[i]*25,0)))
         return out
-    elif request.method == 'GET':  
+    else:  
         return render_template('index.html')      
   
 # main driver function
