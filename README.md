@@ -39,3 +39,5 @@ time management , team work and software skills
 
 ## What's next for Quantum data compressor
 Our project is scalable in the future. We would like to implement the upgraded compression algorithm on the large datasets  in the data mining  or real world applications to maintain the same quality of data without any loss, the data sets are scalable so that we can use it on different types of  classical data eg : text ,image ,audio ,video. 
+
+For more information, check out this presentation: https://docs.google.com/presentation/d/1kLTRBJn7CO8ShUzKnURfu1wFG8E3NtHVGVctc7mG3xU/edit?usp=sharing
